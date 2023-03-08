@@ -1,0 +1,1 @@
+# Bizcardx--Data-extraction-with-Easyocr
